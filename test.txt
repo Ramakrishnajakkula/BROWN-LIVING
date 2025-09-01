@@ -1,0 +1,3 @@
+Build a simple Node.js/Express service with one GET API /products that returns a hardcoded list of products (id, name, price). Add a POST API /cart that accepts a product ID and quantity, and returns the total price.
+
+Submit a GitHub link here which we can view.
